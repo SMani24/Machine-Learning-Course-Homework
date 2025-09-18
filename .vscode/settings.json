@@ -3,6 +3,7 @@
         "crossvlidation",
         "heirchical",
         "mostlikely",
-        "Multicollinearity"
+        "Multicollinearity",
+        "Plynomial"
     ]
 }
