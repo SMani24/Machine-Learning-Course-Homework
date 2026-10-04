@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['obstacle', 'robot']
+
+roboflow:
+  workspace: robot-detection-puqwu
+  project: my-first-project-8qfgb
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/robot-detection-puqwu/my-first-project-8qfgb/dataset/2
