@@ -1,0 +1,37 @@
+[
+  {
+    "path": "Project/CNN/vgg11_finetune_best.pth",
+    "sha256": "ecbe7ead570bf80c75a0e71195f86940ee519d0cb742fb2bd230584cdb98757a",
+    "size": 515123249,
+    "parts": [
+      "vgg11_finetune_best.pth.gz.part001",
+      "vgg11_finetune_best.pth.gz.part002",
+      "vgg11_finetune_best.pth.gz.part003",
+      "vgg11_finetune_best.pth.gz.part004",
+      "vgg11_finetune_best.pth.gz.part005",
+      "vgg11_finetune_best.pth.gz.part006"
+    ]
+  },
+  {
+    "path": "Project/CNN/vgg11_from_scratch_best.pth",
+    "sha256": "7b5b4be687c5270cc4966c35aa2da26502ebffe811d3afad2a42aac0825b0c1f",
+    "size": 515123489,
+    "parts": [
+      "vgg11_from_scratch_best.pth.gz.part001",
+      "vgg11_from_scratch_best.pth.gz.part002",
+      "vgg11_from_scratch_best.pth.gz.part003",
+      "vgg11_from_scratch_best.pth.gz.part004",
+      "vgg11_from_scratch_best.pth.gz.part005",
+      "vgg11_from_scratch_best.pth.gz.part006"
+    ]
+  },
+  {
+    "path": "Project/GAN/dataset/mnistm.pkl",
+    "sha256": "a827693b4eadc86098e2d0b613e74b42ef9b43a08a0b8142f9b55482cdecdef6",
+    "size": 164710271,
+    "parts": [
+      "mnistm.pkl.gz.part001",
+      "mnistm.pkl.gz.part002"
+    ]
+  }
+]

@@ -1,1 +1,5 @@
 /MLenv
+# Originals are stored as split compressed archives in Project/Compressed Files.
+/Project/CNN/vgg11_finetune_best.pth
+/Project/CNN/vgg11_from_scratch_best.pth
+/Project/GAN/dataset/mnistm.pkl
